@@ -1,6 +1,6 @@
 # Job Seeker
 ## Find and Post Jobs
-Remote Job Finder
+I think this would be a great project for our open source project community.
 
 #### Job Seeker -
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Registration/Login </br>
@@ -26,3 +26,8 @@ Remote Job Finder
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;View Messages from Candidates </br>
 #### Administrator -
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Administrator can manage whole system </br>
+
+#### Technology will be use:-
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Frontend: React/Vue </br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Backend: Laravel + Rest Api </br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Database: MySql</br>
